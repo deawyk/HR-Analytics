@@ -1,5 +1,5 @@
 # HR-Analytics
 
-How machine learning can be leveraged to solve people problems, particularly in recruiting. This tutorial also covers different ways of clustering, computing, and visualizing geolocation data. 
+Leveraging machine learning to solve organizational people problems. This tutorial also covers ways to cluster, transform, and visualize geolocation data. 
 
-Please reach out if you're interested in this work deawyk@gmail.com. I'm currently working on a suite of AI tools that enhance the talent insights on the market from LinkedIn Insights, Indeed etc., and ways to measure and improve workplace culture.
+Please reach out if you're interested in this work deawyk@gmail.com. Currently working on AI tools to enhance existing insights tools on the market such as LinkedIn Talent Insights, Glassdoor, etc.
